@@ -541,7 +541,7 @@ void execute_algorithm(int nowt)
 
 int main()
 {
-	ifstream fin("weibo_fix_sort1.txt");
+	ifstream fin("weibo.txt");
 	//ifstream fin("sx-stackoverflow_800days.txt");
 	//ifstream fin("dept1.txt");
 	//ifstream fin("dept2.txt");
