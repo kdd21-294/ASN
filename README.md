@@ -16,7 +16,7 @@ TGT, means the id of the other vertex of the edge
 UNIXTS, means the time interval of the latest interaction
 
 2. C++ Code (main.cpp)
-The experiments over Weibo and StackOverflow are implemented by C++ and STL in Visual Studio 2019
+The experiments over Weibo and StackOverflow are implemented by C++ and STL in Visual Studio 2019.
 In Line 25, you can set the parameters to identify ASN or TSN.
 You can modify the code of Line 487 to read different datasets.
 
